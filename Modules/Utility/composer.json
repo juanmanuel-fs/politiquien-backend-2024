@@ -1,0 +1,31 @@
+{
+    "name": "nwidart/utility",
+    "description": "",
+    "authors": [
+        {
+            "name": "JuanMa",
+            "email": "juanmanuel.llanobarsaya@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Utility\\": "app/",
+            "Modules\\Utility\\Database\\Factories\\": "database/factories/",
+            "Modules\\Utility\\Database\\Seeders\\": "database/seeders/",
+            "Modules\\Utility\\Database\\init\\": ""
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\Utility\\Tests\\": "tests/"
+        }
+    }
+}

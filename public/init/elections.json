@@ -1,0 +1,35 @@
+{
+    "elections": [
+        {
+            "name": "PRESIDENCIAL",
+            "jneId": 1,
+            "positions": [1,2,3]
+        },
+        {
+            "name": "CONGRESAL",
+            "jneId": 2,
+            "positions": [4]
+        },
+        {
+            "name": "PARLAMENTO ANDINO",
+            "jneId": 3,
+            "positions": [5]
+        },
+        {
+            "name": "REGIONAL",
+            "jneId": 4,
+            "positions": [6,7,12,13]
+        },
+        {
+            "name": "MUNICIPAL PROVINCIAL",
+            "jneId": 5,
+            "positions": [8,9]
+        },
+        {
+            "name": "MUNICIPAL DISTRITAL",
+            "jneId": 6,
+            "positions": [10,11]
+        }
+
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Newspaper",
+    "alias": "newspaper",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Newspaper\\Providers\\NewspaperServiceProvider"
+    ],
+    "files": []
+}

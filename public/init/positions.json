@@ -1,0 +1,110 @@
+{
+    "positions": [
+        {
+            "name": "PRESIDENTE DE LA REPÚBLICA",
+            "binaryName": "PRESIDENTE(A)",
+            "jneId": 1
+        },
+        {
+            "name": "PRIMER VICEPRESIDENTE DE LA REPÚBLICA",
+            "binaryName": "PRIMER(A) VICEPRESIDENTE(A)",
+            "jneId": 2
+        },
+        {
+            "name": "SEGUNDO VICEPRESIDENTE DE LA REPÚBLICA",
+            "binaryName": "SEGUNDO(A) VICEPRESIDENTE(A)",
+            "jneId": 3
+        },
+        {
+            "name": "CONGRESISTA DE LA REPÚBLICA",
+            "binaryName": "CONGRESISTA",
+            "jneId": 4
+        },
+        {
+            "name": "REPRESENTANTE ANTE EL PARLAMENTO ANDINO",
+            "binaryName": "PARLAMENTARIO(A) ANDINO(A)",
+            "jneId": 5
+        },
+        {
+            "name": "GOBERNADOR REGIONAL",
+            "binaryName": "GOBERNADOR(A) REGIONAL",
+            "jneId": 6
+        },
+        {
+            "name": "VICEGOBERNADOR REGIONAL",
+            "binaryName": "VICEGOBERNADOR(A) REGIONAL",
+            "jneId": 7
+        },
+        {
+            "name": "ALCALDE PROVINCIAL",
+            "binaryName": "ALCALDE(SA) PROVINCIAL",
+            "jneId": 8
+        },
+        {
+            "name": "REGIDOR PROVINCIAL",
+            "binaryName": "REGIDOR(A) PROVINCIAL",
+            "jneId": 9
+        },
+        {
+            "name": "ALCALDE DISTRITAL",
+            "binaryName": "ALCALDE(SA) DISTRITAL",
+            "jneId": 10
+        },
+        {
+            "name": "REGIDOR DISTRITAL",
+            "binaryName": "REGIDOR(A) DISTRITAL",
+            "jneId": 11
+        },
+        {
+            "name": "CONSEJERO REGIONAL",
+            "binaryName": "CONSEJERO(A) REGIONAL",
+            "jneId": 12
+        },
+        {
+            "name": "ACCESITARIO",
+            "binaryName": "ACCESITARI(A)",
+            "jneId": 13
+        },
+        {
+            "name": "REGIDOR DE CENTRO POBLADO",
+            "binaryName": "REGIDOR(A) DE CENTRO POBLADO",
+            "jneId": 14
+        },
+        {
+            "name": "DIPUTADO",
+            "binaryName": "DIPUTAD(A)",
+            "jneId": 15
+        },
+        {
+            "name": "SENADOR",
+            "binaryName": "SENADOR(A)",
+            "jneId": 16
+        },
+        {
+            "name": "ALCALDE DE CENTRO POBLADO",
+            "binaryName": "ALCALDE(SA) DE CENTRO POBLADO",
+            "jneId": 17
+        },
+        {
+            "name": "CONGRESISTA CONSTITUYENTE",
+            "binaryName": "CONGRESISTA CONSTITUYENTE",
+            "jneId": 18
+        },
+        {
+            "name": "REGIDOR PROVINCIAL SUPLENTE",
+            "binaryName": "REGIDOR(A) PROVINCIAL SUPLENTE",
+            "jneId": 19
+        },
+        {
+            "name": "REPRESENTANTE DE ASAMBLEA REGIONAL",
+            "binaryName": "REPRESENTANTE(A) DE ASAMBLEA REGIONAL",
+            "jneId": 20
+        },
+        {
+            "name": "REGIDOR DISTRITAL SUPLENTE",
+            "binaryName": "REGIDOR(A) DISTRITAL SUPLENTE",
+            "jneId": 21
+        }
+    ]
+}
+

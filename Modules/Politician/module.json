@@ -1,0 +1,11 @@
+{
+    "name": "Politician",
+    "alias": "politician",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Politician\\Providers\\PoliticianServiceProvider"
+    ],
+    "files": []
+}
